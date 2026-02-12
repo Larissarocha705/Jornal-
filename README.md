@@ -1,2 +1,2 @@
-# Jornal-
+# Jornal
 Teste da Aula
